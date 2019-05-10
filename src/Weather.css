@@ -1,7 +1,23 @@
 .Weather{
     border:1px solid red;
-    
     background:lightblue;
     width:250px;
+
     
 }
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto;
+    justify-content: space-between;
+    align-content: space-between;
+    height:100px;
+
+    
+}
+
+
+
+
+
+
